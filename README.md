@@ -4,6 +4,6 @@
  ### Modules Required:
      1. Node.js for backend
      2. ExpressJs for route handling
+        npm install express
      3.jsonwebtoken module 
-``` npm install  jsonwebtoken `
-```
+        npm install  jsonwebtoken 
